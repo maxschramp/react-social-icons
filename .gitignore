@@ -2,7 +2,7 @@ node_modules
 npm-debug.log
 __build__
 dist
-build
+# build
 build.tar.gz
 lib
 .cache
